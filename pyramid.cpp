@@ -1,3 +1,11 @@
+
+// * 
+// * * 
+// * * * 
+// * * * * 
+// * * * * *
+
+
 #include <iostream>
 using namespace std;
  
@@ -31,10 +39,3 @@ int main()
     int n = 5;
     pypart(n);
     return 0;
-}
-
-// * 
-// * * 
-// * * * 
-// * * * * 
-// * * * * *
